@@ -2,15 +2,16 @@
 
 A simple RESTful API built with **Laravel**.
 
-## 🚀 Features
+## Features
 - CRUD operations 
 - API validation & error handling
 - MySQL database integration
 
 
-GET   http://localhost:8000/api/events
-POST  http://localhost:8000/api/events/{event_id}/register
-GET   http://localhost:8000/api/events/{event_id}/attendees
-POST  http://localhost:8000/api/events/{event_id}/register
+## Operation Link
+GET   http://localhost:8000/api/events <br>
+POST  http://localhost:8000/api/events/{event_id}/register <br><br>
+GET   http://localhost:8000/api/events/{event_id}/attendees<br>
+POST  http://localhost:8000/api/events/{event_id}/register<br>
 
 video demo-- https://drive.google.com/file/d/1aFSy-anC3AYsJjOo_QxwX0zgFyb84drE/view?usp=sharing
